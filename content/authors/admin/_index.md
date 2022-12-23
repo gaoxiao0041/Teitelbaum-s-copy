@@ -3,13 +3,13 @@ bio: My research interests include comparative political economy, data science a
 
 education:
   courses:
-  - course: PhD Electrochemistry
+  - course: PhD - Electrochemistry
     institution: Kyoto University
-    year: 2006
-  - course: Master - School of Engineering
+    year: 2016
+  - course: Master - Applied Chemistry
     institution: Osaka University
-    year: 2006
-  - course: BA - Environmental Chemistry
+    year: 2014
+  - course: BA - Enviromental Chemistry
     institution: Doshisha  University
     year: 2010
 
@@ -43,18 +43,16 @@ social:
   link: https://github.com/gaoxiao0041
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/emmanuel-teitelbaum-75a93b4/
+  link: https://www.linkedin.com/in/gao-xiao/
 
 superuser: true
 
 title:
 ---
 
-I am an associate professor of political science and international affairs at [The George Washington University](https://www.gwu.edu). My research and writing explore how class conflict and compromise intersect with democracy and development. I also have a strong interest in labor standards and understanding how labor unions, nonprofit organizations, consumers and corporations can help to promote them.    
+I am an beam scientist of high energy X-ray,  at [SPring-8](http://www.spring8.or.jp/en/). My research and writing explore the in-situ XAFS, GISXAS/GIWAXS synchrotron measurement, phase transfer / reaction mechanism of electrode/electrolyte interface. I also have a strong interest in Electrocatalysts, high-entropy alloy catalysts.    
 
-At GW, I teach courses on comparative political economy, data science and South Asia. I am on faculty in the [Department of Political Science](https://politicalscience.columbian.gwu.edu/) and the [Elliott School of International Affairs](https://elliott.gwu.edu/) and am affiliated with the [Sigur Center for Asian Studies](https://sigur.elliott.gwu.edu/) as well as the Institute for [International Economic Policy](https://iiep.gwu.edu/).
-
-I also serve as one of the managing editors for the [Journal of Development Studies](https://www.tandfonline.com/toc/fjds20/current).
+At SPring-8, I am a staff of BL14, data science and South Asia. I am on faculty in the [Department of Political Science](https://politicalscience.columbian.gwu.edu/) and the [Elliott School of International Affairs](https://elliott.gwu.edu/) and am affiliated with the [Sigur Center for Asian Studies](https://sigur.elliott.gwu.edu/) as well as the Institute for [International Economic Policy](https://iiep.gwu.edu/).I also serve as one of the managing editors for the [Journal of Development Studies](https://www.tandfonline.com/toc/fjds20/current).
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
