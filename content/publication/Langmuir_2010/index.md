@@ -8,5 +8,5 @@ abstract: "The morphological changes of Nafion thin films with thicknesses from 
 featured: false
 publication: "*Langmuir*"
 url_pdf: "Morphology Changes in Perfluorosulfonated Iono.pdf"
-doi: "10.1021/acs.langmuir.9b03564."
+doi: "10.1021/acs.langmuir.9b03564"
 ---
