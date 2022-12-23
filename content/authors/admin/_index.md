@@ -3,13 +3,13 @@ bio: My research interests include comparative political economy, data science a
 
 education:
   courses:
-  - course: Master in Government (Political Science)
+  - course: PhD Electrochemistry
     institution: Kyoto University
     year: 2006
-  - course: Master in Government (Political Science)
+  - course: Master - School of Engineering
     institution: Osaka University
     year: 2006
-  - course: BA in Environmental Chemistry
+  - course: BA - Environmental Chemistry
     institution: Doshisha  University
     year: 2010
 
@@ -26,7 +26,7 @@ organizations:
 - name: Japan Synchrotron Radiation Institute
   url: http://www.jasri.jp/en/
 
-role: Associate Professor of Political Science and International Affairs
+role: Beam Scientist at SPring-8
 
 social:
 - icon: envelope
@@ -34,13 +34,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/eteitelbaum
+  link: https://twitter.com/gaoxiao0041
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=x146Ra0AAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=c-QfER4AAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
-  link: https://github.com/eteitelbaum
+  link: https://github.com/gaoxiao0041
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/emmanuel-teitelbaum-75a93b4/
