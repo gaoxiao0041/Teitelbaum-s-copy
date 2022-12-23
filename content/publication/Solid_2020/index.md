@@ -1,13 +1,13 @@
 ---
-title: "Can a developing democracy benefit from labour repression? Evidence from Sri Lanka"
-date: 2007-01-01
+title: "Substrate-dependent proton transport and nanostructural orientation of perfluorosulfonic acid polymer thin films on Pt and carbon substrate"
+date: 2007-09-14
 publishDate: 2021-01-05T20:13:52.619023Z
-authors: ["Emmanuel Teitelbaum"]
+authors: ["Xiao Gao"]
 publication_types: ["2"]
-abstract: "Abstract While a growing body of academic literature casts doubt on the wisdom of authoritarian responses to labour in developing democracies, few empirical studies demonstrate the adverse effects of excluding organised labour from the policy arena or repressing trade unions in the industrial relations arena. This paper draws on the recent history of state–labour relations in Sri Lanka to help fill this gap. Beginning in the late 1970s, the Sri Lankan government adopted a labour-repressive export-oriented strategy of development. The author shows how the repression of private sector unions during this period destroyed the legitimacy of traditional left unions and the structure of institutionalised bargaining that was in place prior to Sri Lanka's authoritarian period. This erosion of the system of institutionalised bargaining eventually led workers to shift their support to more radical, ‘new left’ unions and culminated in a wave of extreme and violent forms of protest that chased away much needed foreign direct investment. The chaotic consequences of the labour repression suggest two primary conclusions: (a) that prior democratic mobilisation may make labour repression untenable over the long term; and (b) that repression may backfire, creating bursts of highly visible and destabilising protest that undermine the developmental objectives of neoliberal reforms."
+abstract: "The electrochemical reactions occur on the carbon-supported platinum covered by a proton conducting polymer electrolyte. Thus, it is important to clarify the correlation between proton conductivity and morphology of the polymer electrolyte on Pt or carbon. In this study, the properties of thin films (50–200 nm) of Nafion®, which is the typical polymer electrolyte, were investigated on platinum and carbon substrates. Grazing-incidence small/ wide angle X-ray scattering and electrochemical impedance spectroscopy were used to extract morphological and proton transport information. Self-designed interdigitated array electrodes were utilized to test and compare the proton conductivity on the Pt and carbon substrates. Based on the results, the difference in anisotropic behavior of Nafion thin films on each substrate were explored, which exhibit that the proton conductivity of Pt- supported Nafion thin films has more well defined hydrophilic domain structure than that of carbon supported thin films along in-plane direction and while it showed the opposite trend in the out-of-plane direction. These datasets and analyses represented a thorough study of the behavior of Nafion thin films on model substrates of interest, i.e., Pt catalyst/carbon electrodes. These results are expected to further understanding the difference in term of proton transport pathway."
 featured: false
-publication: "*The Journal of Development Studies*"
-url_pdf: "https://doi.org/10.1080/00220380701384505"
-doi: "10.1080/00220380701384505"
----
+publication: "*Solid State Ionics*"
+url_pdf: "pdf/Substrate_dependent.pdf"
+doi: "10.1016/j.ssi.2020.115456"
 
+---
