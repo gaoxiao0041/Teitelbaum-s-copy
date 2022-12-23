@@ -3,15 +3,15 @@ bio: My research interests include comparative political economy, data science a
 
 education:
   courses:
-  - course: PhD Electrochemistry
+  - course: Master in Government (Political Science)
     institution: Kyoto University
     year: 2006
-- course: Master in Government (Political Science)
+  - course: Master in Government (Political Science)
     institution: Osaka University
     year: 2006
   - course: BA in Environmental Chemistry
     institution: Doshisha  University
-    year: 1997
+    year: 2010
 
 email: "gaoxiao0041yahoo.com"
 
