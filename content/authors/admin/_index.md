@@ -3,26 +3,29 @@ bio: My research interests include comparative political economy, data science a
 
 education:
   courses:
-  - course: PhD in Government (Political Science)
-    institution: Cornell University
+  - course: PhD Electrochemistry
+    institution: Kyoto University
     year: 2006
-  - course: BA in Political Science and Philosophy
-    institution: John Carroll University
+- course: Master in Government (Political Science)
+    institution: Osaka University
+    year: 2006
+  - course: BA in Environmental Chemistry
+    institution: Doshisha  University
     year: 1997
-    
-email: "ejt@gwu.edu"
+
+email: "gaoxiao0041yahoo.com"
 
 highlight_name: false
 
 interests:
-- Comparative political economy
-- Data science
-- South Asia
+- Fuel Cells, Battery
+- Electrochemistry
+- Synchrotron Light
 
 organizations:
-- name: The George Washington University
-  url: https://www.gwu.edu/
-  
+- name: Japan Synchrotron Radiation Institute
+  url: http://www.jasri.jp/en/
+
 role: Associate Professor of Political Science and International Affairs
 
 social:
@@ -41,15 +44,15 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/emmanuel-teitelbaum-75a93b4/
-  
+
 superuser: true
 
-title: 
+title:
 ---
 
 I am an associate professor of political science and international affairs at [The George Washington University](https://www.gwu.edu). My research and writing explore how class conflict and compromise intersect with democracy and development. I also have a strong interest in labor standards and understanding how labor unions, nonprofit organizations, consumers and corporations can help to promote them.    
 
-At GW, I teach courses on comparative political economy, data science and South Asia. I am on faculty in the [Department of Political Science](https://politicalscience.columbian.gwu.edu/) and the [Elliott School of International Affairs](https://elliott.gwu.edu/) and am affiliated with the [Sigur Center for Asian Studies](https://sigur.elliott.gwu.edu/) as well as the Institute for [International Economic Policy](https://iiep.gwu.edu/). 
+At GW, I teach courses on comparative political economy, data science and South Asia. I am on faculty in the [Department of Political Science](https://politicalscience.columbian.gwu.edu/) and the [Elliott School of International Affairs](https://elliott.gwu.edu/) and am affiliated with the [Sigur Center for Asian Studies](https://sigur.elliott.gwu.edu/) as well as the Institute for [International Economic Policy](https://iiep.gwu.edu/).
 
 I also serve as one of the managing editors for the [Journal of Development Studies](https://www.tandfonline.com/toc/fjds20/current).
 
