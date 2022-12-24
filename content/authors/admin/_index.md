@@ -19,8 +19,9 @@ highlight_name: false
 
 interests:
 - Fuel Cells, Battery
-- Electrochemistry
-- Synchrotron Light
+- Electrochemical analysis
+- XAFS, GISAXS/GIWAXS
+- Structure analysis
 
 organizations:
 - name: Japan Synchrotron Radiation Institute
