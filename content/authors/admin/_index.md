@@ -37,7 +37,7 @@ social:
   link: https://twitter.com/gaoxiao0041
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=c-QfER4AAAAJ&hl=zh-CN
+  link: https://scholar.google.com/citations?user=c-QfER4AAAAJ&hl=en-US
 - icon: github
   icon_pack: fab
   link: https://github.com/gaoxiao0041
