@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Emmanuel Teitelbaum's home page"
+description = "Xiao Gao's home page"
 
 ############################
 ## Site Features
@@ -93,7 +93,7 @@ phone = "(86) 180-1806-2086"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2115 G Street, NW", city = "Hyogo", region = "DC", postcode = "20052", country = "Japan", country_code = "JP"}
+address = {street = "1 Chome Koto, Sayo", city = "Sayo District", region = "Hyogo", postcode = "679-5148", country = "Japan", country_code = "JP"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
