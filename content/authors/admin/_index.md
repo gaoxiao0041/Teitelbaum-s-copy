@@ -51,7 +51,7 @@ title: About Me
 ---
 
 
-I am a postdoctorial fellow, beam scientist of SPring-8 [SPring-8](http://www.spring8.or.jp/en/) belong to Japan Synchrotron Radiation Institute, at Hyogo, Japan. I focus on explore the interfacial phenomenon, such as phase transition/separtion during charge transfer process, reaction/aging mechanism and so on. Currently, my research is driven by the need for developing in-situ measurement technique of XAFS, GISAXS/GIWAXS for material structural analysis in electrochemical devieces. I am passionate about using synchrotron X-ray to improve how we detect the interfacial/surface structure in a way that is both objective and quantitative.
+I am a postdoc fellow, beam scientist of [SPring-8](http://www.spring8.or.jp/en/) belong to Japan Synchrotron Radiation Institute, at Hyogo, Japan. I focus on explore the interfacial phenomenon, such as phase transition/separation during charge transfer process, reaction/aging mechanism and so on. Currently, my research is driven by the need for developing in-situ measurement technique of XAFS, GISAXS/GIWAXS for material structural analysis in electrochemical devices. I am passionate about using synchrotron X-ray to improve how we detect the interfacial/surface structure in a way that is both objective and quantitative.
 
 
 
