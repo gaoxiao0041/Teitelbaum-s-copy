@@ -47,12 +47,12 @@ social:
 
 superuser: true
 
-title:
+title: About Me
 ---
 
-I am an beam scientist of high energy X-ray,  at [SPring-8](http://www.spring8.or.jp/en/). My research and writing explore the in-situ XAFS, GISXAS/GIWAXS synchrotron measurement, phase transfer / reaction mechanism of electrode/electrolyte interface. I also have a strong interest in Electrocatalysts, high-entropy alloy catalysts.    
 
-At SPring-8, I am a staff of BL14, data science and South Asia. I am on faculty in the [Department of Political Science](https://politicalscience.columbian.gwu.edu/) and the [Elliott School of International Affairs](https://elliott.gwu.edu/) and am affiliated with the [Sigur Center for Asian Studies](https://sigur.elliott.gwu.edu/) as well as the Institute for [International Economic Policy](https://iiep.gwu.edu/).I also serve as one of the managing editors for the [Journal of Development Studies](https://www.tandfonline.com/toc/fjds20/current).
+I am a postdoctorial fellow, beam scientist of SPring-8 [SPring-8](http://www.spring8.or.jp/en/) belong to Japan Synchrotron Radiation Institute, at Hyogo, Japan. I focus on explore the interfacial phenomenon, such as phase transition/separtion during charge transfer process, reaction/aging mechanism and so on. Currently, my research is driven by the need for developing in-situ measurement technique of XAFS, GISAXS/GIWAXS for material structural analysis in electrochemical devieces. I am passionate about using synchrotron X-ray to improve how we detect the interfacial/surface structure in a way that is both objective and quantitative.
+
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
