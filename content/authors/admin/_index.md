@@ -9,7 +9,7 @@ education:
   - course: Master - Applied Chemistry
     institution: Osaka University
     year: 2014
-  - course: BA - Enviromental Chemistry
+  - course: BA - Environmental Chemistry
     institution: Doshisha  University
     year: 2010
 
