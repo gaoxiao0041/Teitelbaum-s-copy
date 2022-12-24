@@ -1,5 +1,5 @@
 ---
-bio: My research interests include comparative political economy, data science and the politics of South Asia.
+bio: My research interests include Electrochemical interface, Synchrotron X-ray Light, Structure analysis
 
 education:
   courses:
